@@ -1,4 +1,3 @@
-<!--
 # 👋 Hi, I'm Ghinwa Moujaes!
 
 ## 🚀 About Me
@@ -34,6 +33,4 @@ I share insights on **Data Science, Economics, AI in Policy Making, and Innovati
 ## 📫 Connect With Me
 - 📧 ghinwamoujaes7@gmail.com
 
----
 ⚡ **Fun Fact:** I love hiking, climbing, blogging, and reading! 🚀
--->
