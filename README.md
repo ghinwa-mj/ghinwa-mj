@@ -2,7 +2,7 @@
 
 ## 🚀 About Me
 I am an **Economist and Data Scientist** with a **PhD in Economics and Innovation**. My expertise lies in **data science, AI-driven policy analysis, and economic research**, with experience in both academic and industry settings. I specialize in **Generative AI, economic modeling, geospatial analysis, and statistical methodologies**.
-[Full Resume Here] (https://drive.google.com/file/d/1fsfbgdrPGHZXQP-DATCsOnOYIp2mj6C7/view?usp=drive_line)
+- [Full Resume Here](https://drive.google.com/file/d/1fsfbgdrPGHZXQP-DATCsOnOYIp2mj6C7/view?usp=drive_line)
 
 
 ## 📌 Featured Projects
