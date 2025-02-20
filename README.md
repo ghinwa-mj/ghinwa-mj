@@ -10,6 +10,8 @@ I am an **Economist and Data Scientist** with a **PhD in Economics and Innovatio
 Here are some interactive apps I've built:
 - [📽️ App 1 - Decision Engine for Local Development Tracker](https://drive.google.com/file/d/17qthX2w5cd9Bd5nMWHwqx4TN1W42QzDO/view?usp=drive_link):
   *Developed as a prototype for the World Bank, this app conducts a regional analysis of geospatial economic and environmental indicators for Serbia and follows up with relevant policy and project recommendations*
+- [📽️ App 2 - AI Assisstant for Local Development Tracker](https://drive.google.com/file/d/1sZV44WdGB0SdcFse-Xapa0sQeabNpesR/view?usp=drive_link):
+  *Developed as a prototype for the World Bank, this app is an AI Assistant for a Local Developement Tracker dataset; a combination of economic and environmental geospatial indicators used to understand local development trends*
 
 ## ✍️ Articles & Blog Posts
 I share insights on **Data Science, Economics, AI in Policy Making, and Innovation**:
