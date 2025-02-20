@@ -9,7 +9,7 @@ I am an **Economist and Data Scientist** with a **PhD in Economics and Innovatio
 ### 🎥 Streamlit Apps
 Here are some interactive apps I've built:
 - [📽️ App 1 - Decision Engine for Local Development Tracker](https://drive.google.com/file/d/17qthX2w5cd9Bd5nMWHwqx4TN1W42QzDO/view?usp=drive_link):
-  Developed as a prototype for the World Bank, this app conducts a regional analysis of geospatial economic and environmental indicators for Serbian and follows up with relevant policy and project recommendations
+  *Developed as a prototype for the World Bank, this app conducts a regional analysis of geospatial economic and environmental indicators for Serbia and follows up with relevant policy and project recommendations*
 
 ## ✍️ Articles & Blog Posts
 I share insights on **Data Science, Economics, AI in Policy Making, and Innovation**:
